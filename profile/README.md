@@ -1,4 +1,4 @@
-<div align="center"><img width="1000" height="299" alt="image" src="https://github.com/user-attachments/assets/0562aa0e-d53a-4837-8608-5508637dfa56" />
+<div align="center"><img width="700" height="299" alt="image" src="https://github.com/user-attachments/assets/0562aa0e-d53a-4837-8608-5508637dfa56" />
 
 
 <img src="https://via.placeholder.com/100/0A0A1A/5B5BFF?text=P" alt="PRUVALEX Logo" width="100" style="border-radius:16px"/>
